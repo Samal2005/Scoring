@@ -1,0 +1,7 @@
+{
+  "name": "Copy of RoboScore",
+  "description": "A high-performance digital scoring system for robotics competitions, featuring QR code team identification, real-time race timing, penalty tracking, and media capture.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
